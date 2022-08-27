@@ -40,6 +40,5 @@
   },
   "engines": {
     "node": "16.x"
-  },
-  "homepage": "https://Huynhpt.github.io/admin_web"
+  }
 }

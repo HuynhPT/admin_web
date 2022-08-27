@@ -9,17 +9,11 @@ import {
   Input,
   Layout,
   Menu,
-  message,
   Modal,
 } from "antd";
 import {
   MenuOutlined,
-  SearchOutlined,
-  PlusOutlined,
-  BellOutlined,
-  MailOutlined,
   LogoutOutlined,
-  UserSwitchOutlined,
   ReloadOutlined,
 } from "@ant-design/icons";
 import { Content, Header } from "antd/lib/layout/layout";
@@ -29,9 +23,7 @@ import image2 from "../Common/image/image2.png";
 import image4 from "../Common/image/image4.png";
 import Vector from "../Common/image/Vector.png";
 import image5 from "../Common/image/image5.png";
-import image6 from "../Common/image/image6.png";
 import image7 from "../Common/image/image7.png";
-import image8 from "../Common/image/image8.png";
 import image9 from "../Common/image/image9.png";
 import imager10 from "../Common/image/imager10.png";
 import imageads from "../Common/image/imageads.png";
