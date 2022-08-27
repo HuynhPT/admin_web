@@ -1,0 +1,44 @@
+.App {
+  /* text-align: center; */
+}
+.App-header {
+  background: linear-gradient(#52c8ee, #2f55db);
+  min-height: 100vh;
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.mContainer {
+  width: 800px;
+  height: 500px;
+  background-color: #ffffff;
+  flex-direction: row;
+  display: flex;
+  border-radius: 3px;
+}
+.layout-left {
+  width: 450px;
+  height: 500px;
+  background-color: #ffffff;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  margin-left: 24px;
+  margin-right: 24px;
+  display: flex;
+  justify-content: center;
+}
+.layout-from {
+  align-self: center;
+  width: 300px;
+}
+
+.layout-right {
+  width: 350px;
+  background-color: #01030a;
+  height: 500px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}

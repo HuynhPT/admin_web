@@ -1,0 +1,24 @@
+.containerstl {
+  overflow: auto;
+}
+/* .containerstl::-webkit-scrollbar {
+} */
+.titletk {
+  margin-top: 24px;
+  margin-left: 24px;
+}
+.title {
+  font-size: 24px;
+  font-family: "Open Sans";
+  font-style: normal;
+  line-height: 29px;
+  font-weight: 600;
+}
+.chart {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 66px;
+}
+.columchar {
+  margin-top: 50px;
+}

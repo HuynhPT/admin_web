@@ -1,0 +1,116 @@
+._container_all {
+    margin: 40px 100px !important;
+    background-color: #FFFFFF;
+    border-radius: 3px !important;
+    box-shadow: 0px 4px 7px rgba(60, 58, 58, 0) !important;
+}
+
+._avatar_1 {
+    margin: 20px;
+    display: flex;
+
+}
+
+._title_avatr {
+    margin-left: 50px !important;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 24px !important;
+    line-height: 29px !important;
+    color: #000000;
+}
+
+._select_team {
+    margin: -58px;
+    margin-left: 170px;
+    border-radius: 3px !important;
+}
+
+._divider_1 {
+    margin: 80px 20px;
+}
+
+._content_body {
+    margin: -55px 0 0 0;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 24px !important;
+    line-height: 29px !important;
+    color: #000000;
+}
+
+._divider_2 {
+    margin: 30px 20px;
+}
+
+._divider_3 {
+    margin: 30px 20px;
+
+}
+
+._row_body {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px 0 0 0;
+}
+
+._row_1 {
+    display: flex;
+    margin: 0 50px;
+}
+
+
+._title_1 {
+    margin-top: 12px;
+    margin-left: 16px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 24px !important;
+    line-height: 29px !important;
+    color: #000000;
+}
+
+._title_2 {
+    margin-top: 12px;
+    margin-left: 16px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 24px !important;
+    line-height: 29px !important;
+    color: #000000;
+}
+
+
+
+._btn_posts {
+    width: 60%;
+    height: 48px !important;
+    margin: -10px 20% 20px;
+    box-sizing: border-box;
+    background: rgba(135, 206, 235, 0.6) !important;
+    border: 1px solid rgba(135, 206, 235, 0.6) !important;
+    border-radius: 3px !important;
+}
+
+._text_btn {
+    margin-top: 5px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 29px !important;
+    color: #000000;
+}
+
+._avatar_1_1 {
+    width: 66px !important;
+    height: 66px !important;
+    line-height: 66px !important;
+    border-radius: 50% !important ;
+    object-fit: cover !important;
+    background-color: #ccc;
+}

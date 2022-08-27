@@ -1,0 +1,35 @@
+._Container_banner_name {
+  overflow: scroll;
+  background-color: white;
+  margin: 70px 100px !important;
+  border-radius: 10px;
+}
+.tox-tinymce {
+  border-radius: 3px !important;
+}
+._titile_add_wonent {
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: black;
+  line-height: 29px;
+  padding: 30px 0 0 30px !important;
+}
+._input_banner_name {
+  padding: 15px 30px !important;
+}
+._titile_add_ {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: black;
+  line-height: 29px;
+}
+._Button_im {
+  display: flex;
+  justify-content: flex-end;
+  padding: 30px 50px;
+}
+.mainCreateTypeProduct{
+  margin: 100px !important;
+}

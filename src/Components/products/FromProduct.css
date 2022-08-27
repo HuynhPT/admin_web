@@ -1,0 +1,118 @@
+._Mcontainer_Fro {
+  margin: 40px 150px !important;
+  background-color: white;
+  border-radius: 3px;
+  box-shadow: 0px 4px 7px rgba(60, 58, 58, 0);
+}
+._Mcontainer_Frompr {
+  /* overflow: scroll; */
+  margin: 0 30px;
+}
+._title_addproduct {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: black;
+  line-height: 29px;
+  padding-top: 50px;
+}
+._inputrow1From {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0 0 0;
+}
+._nameInputrow1 {
+  width: 45% !important;
+}
+._text_product {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: black;
+  line-height: 29px;
+}
+.tox-statusbar__branding {
+  display: none !important;
+}
+.tox-statusbar__path-item {
+  display: none !important;
+}
+._inputrow4From {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0 0 0;
+}
+/* ._nameInputrowc {
+  width: 19%;
+  height: 48px !important;
+} */
+._nameInputrow4 {
+  width: 18%;
+}
+._nameInputro {
+  width: 18%;
+}
+._nameInputrow {
+  width: 45%;
+}
+._inputrow5From {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+  /* margin-top: 30px; */
+}
+._inputrow5Fromed {
+  display: flex;
+  justify-content: space-between;
+  /* margin: 30px; */
+  margin-top: 30px;
+}
+._buttonClick_Product {
+  display: flex;
+  justify-content: flex-end;
+  padding: 30px;
+}
+.__buttonClick_Product_Res {
+  margin-right: 20px;
+  width: 20%;
+  height: 32px;
+  border-radius: 3px !important;
+  background-color: #dcdfe8 !important;
+  text-align: center;
+}
+.__buttonClick_Product_add {
+  width: 20%;
+  border-radius: 3px !important;
+  background-color: #87ceeb99 !important;
+}
+._Title_button_product {
+  width: 100%;
+  margin-top: -3px;
+  text-align: centers;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Open Sans";
+  line-height: 29px;
+}
+._Title_button_product_r {
+  margin-top: -3px;
+  color: black;
+  width: 100%;
+  text-align: centers;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Open Sans";
+  line-height: 29px;
+}
+.tox-notifications-container {
+  display: none !important;
+}
+._nameInputrow2 {
+  margin: 30px;
+}
+._nameInputrow2ed {
+  /* margin: 30px; */
+}
+._nameInpu {
+  width: 45% !important;
+}

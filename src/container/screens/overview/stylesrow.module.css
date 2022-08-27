@@ -1,0 +1,40 @@
+.mContainer_ovew {
+  overflow: auto;
+}
+.container_item {
+  display: flex;
+  padding: 35px;
+}
+.text_content {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 29px;
+  color: #000000;
+}
+.title_content {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 29px;
+  color: #000000;
+}
+.row_container {
+  display: flex;
+  padding-left: 102px;
+}
+.row {
+  padding-right: 62px;
+}
+.chartov {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 29px;
+  margin: 35px;
+}
+

@@ -1,0 +1,28 @@
+.logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgb(226, 226, 226);
+  padding: 0;
+  margin: 0;
+}
+.site_layout_background {
+  padding: 0;
+  background-color: #fff !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px !important;
+}
+.logo_user {
+  text-align: center !important;
+  background-color: powderblue !important;
+  /* line-height: 100px !important; */
+}
+.view_tt {
+  padding: 10px;
+  width: 250px;
+}
+.mContainer {
+  background-color: rgb(0, 0, 0) !important;
+}

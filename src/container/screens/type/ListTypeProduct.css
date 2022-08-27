@@ -1,0 +1,12 @@
+main {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.BodyListTypeProduct {
+  background-color: transparent !important;
+}
+
+.contentListTypeProduct {
+  margin-left: 30px;
+}

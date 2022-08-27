@@ -1,0 +1,111 @@
+._container_top {
+  margin: 30px 30px !important;
+  background-color: #ffffff;
+  border-radius: 3px !important;
+  box-shadow: 0px 4px 7px rgba(60, 58, 58, 0) !important;
+}
+
+.all {
+  width: auto;
+  height: auto;
+  /* overflow: scroll; */
+}
+
+._avatar_top {
+  margin: 20px;
+  display: flex;
+  width: 100px !important;
+  height: 100px !important;
+}
+
+.input_one {
+  margin-top: -120px;
+  margin-left: 150px;
+  margin-right: 10%;
+}
+
+.input_text {
+  font-family: "Open Sans" !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 24px !important;
+  line-height: 29px !important;
+}
+
+.update_anh {
+  width: 50px !important;
+  height: 50px !important;
+  margin: -70px 93% 50px;
+  margin-right: 10%;
+}
+
+._container_top2 {
+  display: flex;
+}
+
+._container_top2 {
+  margin: 30px 30px !important;
+  background-color: #ffffff;
+  border-radius: 3px !important;
+  box-shadow: 0px 4px 7px rgba(60, 58, 58, 0) !important;
+}
+
+._avatar_1 {
+  margin: 20px;
+  display: flex;
+}
+
+._title_avatr {
+  margin-top: 10px !important;
+  margin-left: 30px !important;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 24px !important;
+  line-height: 29px !important;
+  color: #000000;
+}
+
+.body_title1 {
+  margin-left: 40px;
+  margin-right: 90px;
+  margin-top: 50px !important;
+  font-family: "Open Sans" !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 18px !important;
+  line-height: 29px !important;
+  color: #000000;
+
+}
+.body_title12{
+  margin-left: 120%;
+}
+
+.body_title2 {
+  margin-left: 5%;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 100;
+  font-size: 14px;
+  line-height: 29px;
+  color: #787878;
+  cursor: pointer;
+}
+.anh1_title {
+  margin-left: 6%;
+}
+
+.anh4_title {
+  margin-right: 5%;
+}
+.hrone {
+  background-color: #ffffff;
+}
+.hrone1 {
+  background-color: #ffffff;
+}
+._suaxoa{
+  margin-left:280%;
+  margin-top: -75px !important;
+}

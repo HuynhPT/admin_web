@@ -1,0 +1,43 @@
+body::-webkit-scrol lbar {
+  width: 0;
+  height: 0;
+}
+
+.ant-layout-sider,
+.ant-layout-sider-trigger {
+  background-color: #fff !important;
+}
+
+.anticon {
+  color: black !important;
+}
+
+.logo {
+  position: relative;
+  width: 180px;
+  height: 100px;
+  overflow: hidden;
+  margin-left: 10px;
+}
+
+.logo > img {
+  top: 0;
+  object-fit: contain;
+  text-align: center;
+}
+
+.name-school {
+  text-align: center;
+  width: 80%;
+}
+
+.name-school > marquee {
+  color: orangered;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.ant-menu-item-selected,
+.ant-table-cell {
+  background-color: #fff !important;
+}
