@@ -24,7 +24,7 @@ import {
 } from "@ant-design/icons";
 import { Content, Header } from "antd/lib/layout/layout";
 import "../Common/Styles/Layout.css";
-import logo from "../Common//image/Logo.png";
+import logo from "../Common/image/Logo.png";
 import image2 from "../Common/image/image2.png";
 import image4 from "../Common/image/image4.png";
 import Vector from "../Common/image/Vector.png";
@@ -34,13 +34,10 @@ import image7 from "../Common/image/image7.png";
 import image8 from "../Common/image/image8.png";
 import image9 from "../Common/image/image9.png";
 import imager10 from "../Common/image/imager10.png";
-import imagecos from "../Common/image/imagecos.png";
 import imageads from "../Common/image/imageads.png";
 
-import Checkout from "../Common/image/Checkout.png";
 import styles from "../Common/styles/Layout.module.css";
 import { NavLink, Outlet } from "react-router-dom";
-import { upBanner } from "../Redux/AllBanner";
 import { upUser } from "../Redux/UserSlice";
 const { Sider } = Layout;
 function getItem(label, key, icon, children, type) {
