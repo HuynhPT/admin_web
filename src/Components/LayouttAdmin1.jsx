@@ -18,7 +18,7 @@ import {
 } from "@ant-design/icons";
 import { Content, Header } from "antd/lib/layout/layout";
 import "../Common/Styles/Layout.css";
-import logofs from "../Common/image/Logo.png";
+import logofs from "../Common/image/logofas.png";
 import image2 from "../Common/image/image2.png";
 import image4 from "../Common/image/image4.png";
 import Vector from "../Common/image/Vector.png";
